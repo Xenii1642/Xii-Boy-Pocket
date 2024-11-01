@@ -14,7 +14,7 @@ You can also learn more about the Xii-Boy Original here: [Xii-Boy Original Threa
 # Parts
 All the parts you need to assemble a Xii-Boy Pocket are listed in the [Xii-Boy V2 Parts list](https://github.com/Xenii1642/Xii-Boy-Pocket/blob/main/Xii-Boy%20V2%20Parts%20List.pdf)
 
-⚠ NOTE: For the batteries, I personnaly order mine through [Akkuteile](https://akkuteile.de/). However, if you don't live in Europe, you should buy your batteries somewhere else.
+⚠ NOTE: For the batteries, I personally order mine through [Akkuteile](https://akkuteile.de/). However, if you don't live in Europe, you should buy your batteries somewhere else.
 You just have to order two 18650 batteries. You shouldn't order them through Aliexpress, they could be fake and maybe dangerous ⚠
 
 # PCB
