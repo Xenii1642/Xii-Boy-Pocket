@@ -1,4 +1,4 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBP-Logo-Light.png"> <img src="Images/XBP-Logo-Dark.png"> </picture> 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="Images/XBP-Logo-Light.png" width="800"> <img src="Images/XBP-Logo-Dark.png" width="800"> </picture> 
 
 The Xii-Boy Pocket is a small portable Wii using a Game Boy form factor. The Xii-Boy Pocket is the second version of my Xii-Boy design.
 This new portable Wii is now better, thinner, and above all, Open-Source ! Compared to the Gboy Rev III, it is 25% smaller and 5mm thinner !
