@@ -5,9 +5,10 @@ This new portable Wii is now better, thinner, and above all, Open-Source ! Compa
 
 If you want to learn more about it, you can check this Bitbuilt Thread: Not yet, will be here soon 😉
 
-If you want to see the developement of the Xii-Boy Pocket, you can check this Bitbuilt Worklog: [Xii-Boy Pocket's Worklog](https://bitbuilt.net/forums/index.php?threads/xii-boy-v2-xeniis-second-portable-wii.6374/)
+If you want to see its developement, you can check this Bitbuilt Worklog: [Xii-Boy Pocket's Worklog](https://bitbuilt.net/forums/index.php?threads/xii-boy-v2-xeniis-second-portable-wii.6374/)
 
 You can also learn more about the Xii-Boy Original here: [Xii-Boy Original Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-xeniis-first-portable-wii.6327/)
+
 <img src="Images/XBP-Zelda.jpg" width="400"/>
 <img src="Images/XBP-Mario.jpg" width="400" />
 <img src="Images/Xii-Boy Pocket.png" width="800"/>
