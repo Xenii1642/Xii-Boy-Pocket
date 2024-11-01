@@ -9,8 +9,7 @@ If you want to see its developement, you can check this Bitbuilt Worklog: [Xii-B
 
 You can also learn more about the Xii-Boy Original here: [Xii-Boy Original Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-xeniis-first-portable-wii.6327/)
 
-<img src="Images/XBP-Zelda.jpg" width="400"/>
-<img src="Images/XBP-Mario.jpg" width="400" />
+<img src="Images/XBP-Zelda.jpg" width="400"/> <img src="Images/XBP-Mario.jpg" width="400" />
 <img src="Images/Xii-Boy Pocket.png" width="800"/>
 # Parts
 All the parts you need to assemble a Xii-Boy Pocket are listed in the [Xii-Boy V2 Parts list](https://github.com/Xenii1642/Xii-Boy-Pocket/blob/main/Xii-Boy%20V2%20Parts%20List.pdf)
