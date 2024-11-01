@@ -41,9 +41,9 @@ I personally order mine through [JLCPCB](https://jlcpcb.com/) 👍
 
 # Case
 All the needed STLs are available in the [STL Folder](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/STL).
-If you want to order your case in **nylon** or **resin** through [JLC3DP](https://jlc3dp.com/), please use the case available in the [Case (JLC) Folder]().
+If you want to order your case in **nylon** or **resin** through [JLC3DP](https://jlc3dp.com/), please use the case available in the [Case (JLC) Folder](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/STL/Case%20(JLC)).
 
-Otherwise, if you want to print / order it in FDM, use the case available in the [Case (FDM) Folder]()
+Otherwise, if you want to print / order it in FDM, use the case available in the [Case (FDM) Folder](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/STL/Case%20(FDM))
 
 ⚠ Do not forget to print / order the buttons and the fixations ⚠
 
