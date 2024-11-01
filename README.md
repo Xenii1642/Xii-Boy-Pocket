@@ -3,9 +3,9 @@
 The Xii-Boy Pocket is a small portable Wii using a Game Boy form factor. The Xii-Boy Pocket is the second version of my Xii-Boy design.
 This new portable Wii is now better, thinner, and above all, Open-Source ! Compared to the Gboy Rev III, it is 25% smaller and 5mm thinner !
 
-If you want to learn more about it, you can check this Bitbuilt Thread: Not yet, will be here soon 😉
+If you want to learn more about it, you can check this BitBuilt Thread: [Xii-Boy Pocket's Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-pocket-v2.6638/)
 
-If you want to see its development, you can check this Bitbuilt Worklog: [Xii-Boy Pocket's Worklog](https://bitbuilt.net/forums/index.php?threads/xii-boy-v2-xeniis-second-portable-wii.6374/)
+If you want to see its development, you can check this BitBuilt Worklog: [Xii-Boy Pocket's Worklog](https://bitbuilt.net/forums/index.php?threads/xii-boy-v2-xeniis-second-portable-wii.6374/)
 
 You can also learn more about the Xii-Boy Original here: [Xii-Boy Original Thread](https://bitbuilt.net/forums/index.php?threads/the-xii-boy-xeniis-first-portable-wii.6327/)
 
