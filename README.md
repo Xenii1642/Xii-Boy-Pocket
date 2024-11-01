@@ -18,7 +18,7 @@ All the parts you need to assemble a Xii-Boy Pocket are listed in the [Xii-Boy V
 You just have to order two 18650 batteries. You shouldn't order them through Aliexpress, they could be fake and maybe dangerous ⚠
 
 # PCB
-All the Gerbers you need for the Xii-Boy Pocket are available in the [Gerber Folder]().
+All the Gerbers you need for the Xii-Boy Pocket are available in the [Gerber Folder](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/PCB%20Files/Gerber).
 
 All the needed components are listed in the [Xii-Boy V2 PCB BOM.pdf](https://github.com/Xenii1642/Xii-Boy-Pocket/blob/main/Xii-Boy%20V2%20PCB%20BOM.pdf) file.
 
