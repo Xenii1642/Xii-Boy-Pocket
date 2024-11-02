@@ -17,8 +17,8 @@ If you have any questions or problems about the Xii-Boy Pocket, please let me kn
 # Parts
 All the parts you need to assemble a Xii-Boy Pocket are listed in the [Xii-Boy V2 Parts List.pdf](https://github.com/Xenii1642/Xii-Boy-Pocket/blob/main/Xii-Boy%20V2%20Parts%20List.pdf) file.
 
-⚠ NOTE: For the batteries, I personally order mine through [Akkuteile](https://akkuteile.de/). However, if you don't live in Europe, you should buy your batteries somewhere else.
-You just have to order two 18650 batteries. You shouldn't order them through Aliexpress, they could be fake and maybe dangerous ⚠
+⚠ NOTE ⚠ For the batteries, I personally order mine through [Akkuteile](https://akkuteile.de/). However, if you don't live in Europe, you should buy your batteries somewhere else.
+You just have to order two 18650 batteries. You shouldn't order them through Aliexpress, they could be fake and maybe dangerous
 
 # PCB
 All the Gerbers you need for the Xii-Boy Pocket are available in the [Gerber](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/PCB%20Files/Gerber) folder.
@@ -51,4 +51,6 @@ Otherwise, if you want to print / order it in FDM, use the case available in the
 ⚠ Do not forget to print / order the buttons and the fixations ⚠
 
 I personally ordered my case through [JLC3DP](https://jlc3dp.com/) in **nylon SLS** and I printed the buttons in PLA 👍
+
+⚠ NOTE ⚠ JLC3DP may ask you that there are some risks that the case could have warping or cracks. You have to accept them 👍
 
