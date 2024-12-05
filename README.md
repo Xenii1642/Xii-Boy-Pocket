@@ -36,7 +36,7 @@ The Xii-Boy Pocket's PCBs need specific settings to work properly:
   
 ### **Main PCB**:
 - Impedance Controll YES
-- Impedance Controll profile JLC0416H-7628
+- Impedance Controll profile JLC04161H-7628
 
 The other PCBs don't need specific settings. You can just let the setting by default 👍
 
