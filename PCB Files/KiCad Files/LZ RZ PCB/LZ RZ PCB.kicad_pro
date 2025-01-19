@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Z PCB.kicad_pro",
+    "filename": "LZ RZ PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,10 +466,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../Xii-Boy V2/Gerber/Z-PCB/",
+      "plot": "../../Gerber/Z-PCB/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/LZ_RZ_PCB.step",
+      "step": "../../../../../Downloads/LZ_RZ_PCB.step",
       "svg": "",
       "vrml": ""
     },
