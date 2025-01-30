@@ -48,9 +48,11 @@ If you want to order your case in **nylon** or **resin** through [JLC3DP](https:
 
 Otherwise, if you want to print / order it in FDM, use the case available in the [Case (FDM)](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/STL/Case%20(FDM)) folder.
 
-⚠ Do not forget to print / order the buttons and the fixations ⚠
+⚠️ Some of the buttons and fixations are too small to be manufactured by JLC3DP. To fix that, you can find a file which contains all the too small pieces [here](https://github.com/Xenii1642/Xii-Boy-Pocket/blob/main/STL/Buttons/Buttons-JLC.stl) ⚠️
 
 I personally ordered my case through [JLC3DP](https://jlc3dp.com/) in **nylon SLS** and I printed the buttons in PLA 👍
 
 ⚠ NOTE ⚠ JLC3DP may ask you that there are some risks that the case could have warping or cracks. You have to accept them 👍
 
+# STEP Files
+You would like to make an edit on the case? No worries! You can find STEP files of the case in the [STEP folder](https://github.com/Xenii1642/Xii-Boy-Pocket/tree/main/STEP)
